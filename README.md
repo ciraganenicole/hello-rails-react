@@ -1,24 +1,35 @@
-# README
+# HELLO RAILS AND REACT
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is a simple example of a React and Rails application. It displays a random message from a list of messages.
 
-Things you may want to cover:
+## GETTING STARTED
 
-* Ruby version
+To get started, you need to install the necessary dependencies.
 
-* System dependencies
+Run the following commands
 
-* Configuration
+- To install the dependencies: `bundle install`
+- To create the local database: `rails db:create`
+- To seed the database: `rails db:seed`
 
-* Database creation
+## About me
 
-* Database initialization
+👤 **Ciragane Nicole**
 
-* How to run the test suite
+- GitHub: [@ciraganenicole](https://github.com/ciraganenicole)
+- Twitter: [@CiraganeN](https://twitter.com/CiraganeN)
+- LinkedIn: [CiraganeNicole](https://linkedin.com/in/nicole-ciragane-19a3071bb)
 
-* Services (job queues, cache servers, search engines, etc.)
+## 🤝 Contributing
 
-* Deployment instructions
+Contributions, issues, and feature requests are welcome!
 
-* ...
+Feel free to check the issues page.
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## License
+
+This is a MIT licensed project.

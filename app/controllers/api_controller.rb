@@ -3,6 +3,6 @@ class ApiController < ApplicationController
   
     def random_greeting
       message = Greeting.find(Greeting.pluck(:id).sample)
-      json_response({ message: message })
+      json_response({ greeting: message.greeting })
     end
   end
